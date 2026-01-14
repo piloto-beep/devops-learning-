@@ -1,0 +1,5 @@
+Reporte generado el: 2026-01-14
+/dev/sda3       475G   25G  448G   6% /
+/dev/sda3       475G   25G  448G   6% /home
+/dev/sda2       2.0G  584M  1.3G  32% /boot
+/dev/sda1       599M   20M  580M   4% /boot/efi
