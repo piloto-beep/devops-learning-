@@ -1,0 +1,30 @@
+Mi Camino a DevOps - Fase 1: Fundamentos de Linux y Bash
+
+este es mi repositorio de aprendizaje de DevOps desde cero. En esta primera etapa, me enfoqué en dominar la terminal de Linux (Fedora) y la automatización mediante scripts de Bash.
+
+
+## 🛠️ Lo que he aprendido en esta Fase:
+
+- **Administración de Sistemas:** Gestión de usuarios, permisos y seguridad de puertos.
+
+- **Automatización:** Creación de scripts para tareas repetitivas y mantenimiento.
+
+- **Monitoreo:** Scripts para vigilar el uso de CPU, RAM y servicios del sistema.
+
+- **Control de Versiones:** Configuración profesional de Git y conexión segura mediante llaves SSH.
+
+
+## 📁 Contenido de la Fase 1:
+
+- `gestor_usuarios.sh`: Automatiza la creación de perfiles en el sistema.
+
+- `seguridad_puertos.sh`: Auditoría básica de puertos abiertos.
+
+- `monitor_recursos_alert.sh`: Sistema de alertas de salud del servidor.
+
+- `super_limpiador_fedora.sh`: Mantenimiento automático de paquetes y temporales.
+
+- *(Y otros scripts de auditoría y gestión de servicios).*
+
+
+Desde 0 estare siempre documentando mis y compartiendo mis cosas
